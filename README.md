@@ -7,10 +7,10 @@
 
 ##  Cómo ejecutar
 - Clona el repositorio en una terminal:
- ```bash
+- ```bash
 git clone https://github.com/Fleitaselene-dev/tp3_tlp3_selene_fleita.git
 - Accede a la carpeta del proyecto
- ```bash
+- ```bash
   cd tp3_tlp3_selene_fleita
 
 
@@ -18,5 +18,5 @@ git clone https://github.com/Fleitaselene-dev/tp3_tlp3_selene_fleita.git
 
 - Tener instalado **Python 3.x**
 - Tener instalada la extensión **Jupyter Notebook**
- ```bash
+- ```bash
 jupyter notebook
